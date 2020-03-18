@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "289964362795",
+    "firebase_url": "https://locally-e.firebaseio.com",
+    "project_id": "locally-e",
+    "storage_bucket": "locally-e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289964362795:android:2de30c5e5619fa49",
+        "android_client_info": {
+          "package_name": "lynapp.labs.locally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289964362795-lr1avdi9et5ijt456697qf1e4rve4t44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lynapp.labs.locally",
+            "certificate_hash": "f216ce43a8bc30797ad0d38177859d38690d35ef"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAUur9sZ6PcbUtwrXbUTaTlD0pHw-PLgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289964362795-9ke6l4siit8mmhibcomtd7i0eqhujben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
